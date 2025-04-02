@@ -80,5 +80,7 @@ set "file=C:\Windows\System32\Drivers\etc\hosts"
     echo 127.0.0.1 www.usaco.org
     echo 127.0.0.1 www.search.yahoo.com
     echo 127.0.0.1 search.yahoo.com
+    echo 127.0.0.1 api.openai.com
+    echo 127.0.0.1 www.api.openai.com
 ) >> "%file%"
 endlocal
